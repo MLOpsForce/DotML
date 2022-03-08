@@ -1,4 +1,3 @@
-from fileinput import filename
 from typing import Tuple
 import pandas as pd
 import pickle
